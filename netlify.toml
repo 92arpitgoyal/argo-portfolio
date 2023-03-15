@@ -2,9 +2,9 @@
   publish = "public"
   command = "npm run build"
 [build.environment]
-  NODE_VERSION = "18.0.0"
-  YARN_VERSION = "1.22.4"
-  YARN_FLAGS = "--no-ignore-optional"
+  NODE_VERSION = "19.7.0"
+  NPM_VERSION = "9.5.0"
+  NPM_FLAGS = "--legacy-peer-deps"
 [[redirects]]
   from = "/resume"
   to = "https://drive.google.com/file/d/0B1pz4JVn5F_9QVR4NkRCTEowUmM/view?usp=sharing&resourcekey=0-kmqmOpYeJtpraP64pyCklw"
