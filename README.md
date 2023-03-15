@@ -1,8 +1,8 @@
-# Gatsby + Netlify CMS Starter
+# Argo Portfolio (Based on Gatsby + Netlify CMS Starter)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4270aed6-8239-4173-8f65-2a5370bb8789/deploy-status)](https://app.netlify.com/sites/argo-portfolio/deploys)
 
-**Note:** This starter uses [Gatsby v4](https://www.gatsbyjs.com/gatsby-4/).
+**Note:** This starter uses [Gatsby v5](https://www.gatsbyjs.com/gatsby-5/).
 
 This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
 
@@ -26,7 +26,8 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 
 ## Prerequisites
 
-- Minimal Node.js version 14.15.0
+- Node.js version 19.7.0
+- NPM version 9.5.0
 - [Gatsby CLI](https://www.gatsbyjs.com/docs/reference/gatsby-cli/)
 - [Netlify CLI](https://github.com/netlify/cli)
 
