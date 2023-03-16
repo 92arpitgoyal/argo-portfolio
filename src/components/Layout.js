@@ -6,6 +6,8 @@ import "./all.sass";
 import useSiteMetadata from "./SiteMetadata";
 import { withPrefix } from "gatsby";
 
+import safePrefix from '../utils/safePrefix';
+
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
   return (
@@ -39,7 +41,25 @@ const TemplateWrapper = ({ children }) => {
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
+        <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
 
+        <script type="application/ld+json">{`
+            {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "Arpit Goyal",
+                "jobTitle": "Fronend Developer",
+                "url": "https://arpitgoyal.com",
+                "sameAs" : [
+                    "https://www.quora.com/profile/Arpit-Goyal-14",
+                    "https://www.linkedin.com/in/arpit-goyal-india",
+                    "https://twitter.com/_arpitgoyal",
+                    "https://medium.com/@arpit_goyal",
+                    "https://www.instagram.com/_arpitgoyal/"
+                ],
+                "email": "92arpit.goyal@gmail.com"
+            }
+        `}</script>
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
