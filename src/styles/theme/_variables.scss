@@ -17,20 +17,3 @@ $palette: (
   accent-black:  #323232,
   accent-red:    #a51c30
 );
-
-@import "imports/functions";
-
-@import "fontawesome.min.css";
-@import "brands.min.css";
-
-@import "imports/reset";
-@import "imports/general";
-@import "imports/icons";
-@import "imports/structure";
-@import "imports/header";
-@import "imports/content";
-@import "imports/subscribe";
-@import "imports/footer";
-@import "imports/palettes";
-
-@import "styles/main";

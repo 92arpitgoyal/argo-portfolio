@@ -1,0 +1,21 @@
+@import "theme/variables";
+@import "theme/functions";
+
+// @import "fontawesome.min.css";
+// @import "brands.min.css";
+
+@import "theme/reset";
+@import "theme/general";
+@import "theme/icons";
+@import "theme/structure";
+@import "theme/header";
+@import "theme/content";
+@import "theme/subscribe";
+@import "theme/footer";
+@import "theme/palettes";
+
+@import "utils/main";
+
+@import "screens/home";
+@import "screens/work";
+@import "screens/photography";
