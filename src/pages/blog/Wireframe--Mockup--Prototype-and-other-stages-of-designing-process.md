@@ -41,7 +41,7 @@ Designing is done to streamline the development process and hence, design proces
 
 ### 1. Designing your process:
 
-![](/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*nU2rtGhsZao5hKKYjI1nWg.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*nU2rtGhsZao5hKKYjI1nWg.jpeg)
 
 Different designers approach wireframing and its translation to visuals or code in different ways.
 
@@ -69,7 +69,7 @@ If you constantly observe your favourite designers or agencies’ works, you’l
 
 ### 4. Sketching:
 
-![](/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*Duruq65OPuBhEy0yFX6gmw.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*Duruq65OPuBhEy0yFX6gmw.jpeg)
 
 Now when you have a plan of approach and you’re inspired & have some rough ideas, it’s time to start with sketching.
 
@@ -95,7 +95,7 @@ Like the foundation of a building, it has to be fundamentally strong before you 
 
 #### c) Define information hierarchy with typography
 
-![](/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*zVOynfcSzPnLCJJFA0qDgQ.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*zVOynfcSzPnLCJJFA0qDgQ.jpeg)
 
 #### What to avoid while wireframing :
 
@@ -121,7 +121,7 @@ Wireframing brings the following key benefits:
 
 Now the final wireframe can be converted to final Mockups or Visual:
 
-![](/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*AfdcCvTX_04TdC9frxuiKw.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*AfdcCvTX_04TdC9frxuiKw.jpeg)
 
 Some common tools for Mockups are Sketch, Adobe Photoshop, Adobe XD.
 
@@ -143,7 +143,7 @@ A Color scheme representing Brand Identity and psychological colors as Red for d
 
 ### 7. Prototypes:
 
-![](/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*X5THTg-vfFJUQy9v1okOZw.png)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*X5THTg-vfFJUQy9v1okOZw.png)
 
 A **prototype** is an early sample, model, or release of a product built to test a concept or process or to act as a thing to be replicated or learned from.
 
@@ -155,7 +155,7 @@ I Suggest [inVision](http://www.invisionapp.com/), [UXpin](https://www.uxpin.com
 
 ### 8. Handover(Bonus):
 
-![](/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*14MKpcCN3A1Ph6XqxH9I4w.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*14MKpcCN3A1Ph6XqxH9I4w.jpeg)
 
 The designers used to handover their designs to developer in form of specs with editable files, but now it’s easier to do with tools like [InVision Inspect](https://www.invisionapp.com/feature/inspect/), [Zeplin](https://zeplin.io/), [avocode](https://avocode.com/).
 
@@ -171,4 +171,4 @@ I’m am also learning to design, feel free to drop your suggestions, or comment
 
 If you found this article useful, click the heart below. Have a nice day.
 
-![](/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*emxDrmtEiMy6h5JXecj-Og.gif)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Wireframe--Mockup--Prototype-and-other-stages-of-designing-process/1*emxDrmtEiMy6h5JXecj-Og.gif)

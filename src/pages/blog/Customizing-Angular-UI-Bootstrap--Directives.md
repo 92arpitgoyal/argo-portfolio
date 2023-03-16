@@ -54,7 +54,7 @@ and also added some styles to change colors and cell-spacing.
 
 and It works yuhu!, There are other \[better\] ways of doing same, I could have fed it directly to **$templateCache,** but there’s even a better way to do it (**Best practices** rules), all I did was, moved these template’ markups to actual .html files and place them under a folder _custom-templates,_ then used provider **$provide.decorator** to override directive’s templateUrl to point at it. (hence avoiding the need to directly mess around with **$templateCache**)
 
-![](/images/Customizing-Angular-UI-Bootstrap--Directives/1*LvxLvXZiDsH16gFpoP_dXg.png)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Customizing-Angular-UI-Bootstrap--Directives/1*LvxLvXZiDsH16gFpoP_dXg.png)
 
 <figcaption>Custom template markup files</figcaption>
 
@@ -74,7 +74,7 @@ If you’re looking for no structural change but only changes in Styles, you sho
 
 Designs had **_day in week header_** with one letter **(‘S’ for Sunday, ‘M’ for Monday and so on.)**
 
-![](/images/Customizing-Angular-UI-Bootstrap--Directives/1*fUnWgi5X8rq3-H68RUf5qg.png)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Customizing-Angular-UI-Bootstrap--Directives/1*fUnWgi5X8rq3-H68RUf5qg.png)
 
 So I added **format-day-header=”E”** as an attribute  to my datepicker, and it still gave me the default headers i.e: sun, mon, tue, etc.
 
@@ -101,7 +101,7 @@ But yes, the rule book of best practices says **don’t edit vendor files,** so 
 
 You should add it to old config itself, if you’re planning to use both.
 
-![](/images/Customizing-Angular-UI-Bootstrap--Directives/1*CtssURT2ZoiaD3HE9D4XaA.png)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Customizing-Angular-UI-Bootstrap--Directives/1*CtssURT2ZoiaD3HE9D4XaA.png)
 
 After this final step, and adding some styles, I also passed some already available parameters like **format-day=”d”, show-weeks=”false”.**
 
@@ -115,4 +115,4 @@ So a template was changed to something very different, using Best practices and 
 
 If you have any questions / suggestions, feel free to drop it in comments and If you found this article useful, click the heart below.
 
-![](/images/Customizing-Angular-UI-Bootstrap--Directives/1*emxDrmtEiMy6h5JXecj-Og.gif)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Customizing-Angular-UI-Bootstrap--Directives/1*emxDrmtEiMy6h5JXecj-Og.gif)

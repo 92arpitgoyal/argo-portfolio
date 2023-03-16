@@ -63,7 +63,7 @@ Now, after these were taken care of, I did not stop and started adding **more he
 * **100+ days of cycling to work**
 * **100+ days of playing badminton after office**
 
-![](/images/2018--of-taking-actions/1*-rAzsTSR9f8c29hHnIj4ug.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*-rAzsTSR9f8c29hHnIj4ug.jpeg)
 
 I also started working on mental health, I have lately been a short-tempered, unsatisfied and emotionally dependent kinda person. It was initially just my new job, but later managing a family and trying out to get into stupid relationships and ending up with nothing else but more sorrow. I started utilising time for better things:
 
@@ -89,45 +89,45 @@ While I was trying to be a better person for others and for myself, I wasn’t t
 * I just completed 1 million views on [Quora(shameless advertising Quora)](https://www.quora.com/profile/Arpit-Goyal-14)
 * Made a lot of new friends, reconnected with a lot of people earlier, travelled
 
-![](/images/2018--of-taking-actions/1*Vkc0rTX5ln5-q-psWs1-2Q.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*Vkc0rTX5ln5-q-psWs1-2Q.jpeg)
 
-![](/images/2018--of-taking-actions/1*PozcmOCFqm94_4M1wklGLw.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*PozcmOCFqm94_4M1wklGLw.jpeg)
 
-![](/images/2018--of-taking-actions/1*SjXn8N7LuW86DLF5fSGGNQ.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*SjXn8N7LuW86DLF5fSGGNQ.jpeg)
 
-![](/images/2018--of-taking-actions/1*-ZkfmRd89Mav7zjQjGA7iQ.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*-ZkfmRd89Mav7zjQjGA7iQ.jpeg)
 
-![](/images/2018--of-taking-actions/1*VT88ykgbG00NUuhp2PO3cw.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*VT88ykgbG00NUuhp2PO3cw.jpeg)
 
-![](/images/2018--of-taking-actions/1*cknrFZn62l50rz3MMHksvw.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*cknrFZn62l50rz3MMHksvw.jpeg)
 
-![](/images/2018--of-taking-actions/1*OdLmQNFon6YczonaBoQezQ.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*OdLmQNFon6YczonaBoQezQ.jpeg)
 
 <figcaption>Meeting people and making faces</figcaption>
 
 * **A month full of \[Art of\] living:** From attending Happiness program, to learning to not say no, to volunteering and _seva._
 
-![](/images/2018--of-taking-actions/1*DRUdObl3anVEa9WE9KEVXg.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*DRUdObl3anVEa9WE9KEVXg.jpeg)
 
-![](/images/2018--of-taking-actions/1*W_or--MsZH7zBBia1KPpng.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*W_or--MsZH7zBBia1KPpng.jpeg)
 
-![](/images/2018--of-taking-actions/1*lsQyOn0bIv38koAQVoVwoQ.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*lsQyOn0bIv38koAQVoVwoQ.jpeg)
 
-![](/images/2018--of-taking-actions/1*44g3UeZwpb5QQ6TK1AMdyg.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*44g3UeZwpb5QQ6TK1AMdyg.jpeg)
 
-![](/images/2018--of-taking-actions/1*mAEy6t_VGJIKUJHgf1CABg.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*mAEy6t_VGJIKUJHgf1CABg.jpeg)
 
 * **MTX Global Inc.:** Yes, new job! I found a new job in Jaipur, where I am valued and working on things I am liking(I am the Product guy, bitch :P), it’s been just 2 weeks here, but they have been super busy with work and celebrations.
 
-![](/images/2018--of-taking-actions/1*AP9G2LvjuA-jR99S2dgbkg.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*AP9G2LvjuA-jR99S2dgbkg.jpeg)
 
-![](/images/2018--of-taking-actions/1*FPksNWi3b1Izo5Ko5st68A.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*FPksNWi3b1Izo5Ko5st68A.jpeg)
 
-![](/images/2018--of-taking-actions/1*6t0bAqxwuhFhnoApFXO6mA.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*6t0bAqxwuhFhnoApFXO6mA.jpeg)
 
-![](/images/2018--of-taking-actions/1*SIen9IwfuDtr5_0WLzBE3w.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*SIen9IwfuDtr5_0WLzBE3w.jpeg)
 
-![](/images/2018--of-taking-actions/1*clO692dJYkU2Fexla4-sQw.jpeg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*clO692dJYkU2Fexla4-sQw.jpeg)
 
 <figcaption>New Year and Annual celebrations @ MTX</figcaption>
 

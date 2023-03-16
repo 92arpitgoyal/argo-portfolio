@@ -31,7 +31,7 @@ The majority of the extensions are free, so there’s no harm in giving them all
 
 Whenever you find a word not in your dictionary, You Goggle it, right ? But Everytime Copying word and then searching (in a new tab) maybe distracting, with Google Dictionary, you just have to double click on word and Google will feed you with result **in a pop-up right there**.
 
-![](/images/List-of-the-Essential-Extensions/0*B6CZBA7DDBpH7Ibh..jpg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/List-of-the-Essential-Extensions/0*B6CZBA7DDBpH7Ibh..jpg)
 
 2\. **Ad/Flash blocking extensions:**
 
@@ -50,17 +50,17 @@ Whenever you find a word not in your dictionary, You Goggle it, right ? But Eve
 * [Unlimited Free VPN — Hola](https://chrome.google.com/webstore/detail/unlimited-free-vpn-hola/gkojfkhlekighikafcpjkiklfbnlmeio)
 * [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem) your mail reads, clicks are being tracked using pixel-based tools like [Mailtrack](https://chrome.google.com/webstore/detail/email-tracking-for-gmail/ndnaehgpjlnokgebbaldlmgkapkpjkkb), you can use PixelBlock to block those.
 
-![](/images/List-of-the-Essential-Extensions/0*3NYPhcY6ipMwmm-u..jpg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/List-of-the-Essential-Extensions/0*3NYPhcY6ipMwmm-u..jpg)
 
 * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) can help you encrypt data exchange over at non-https websites.
 
 4\. [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en) for Chrome for writing error-free, clear content.
 
-![](/images/List-of-the-Essential-Extensions/0*IHJUjQdZq0QaQ5uk..jpg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/List-of-the-Essential-Extensions/0*IHJUjQdZq0QaQ5uk..jpg)
 
 5\. [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi) lets read you all of your articles without distraction. It also adds options to choose between dark mode/light mode, different font sizes, different font styles, etc.
 
-![](/images/List-of-the-Essential-Extensions/0*XeeSmjN9VTqUCqQ8..jpg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/List-of-the-Essential-Extensions/0*XeeSmjN9VTqUCqQ8..jpg)
 
 6\. [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en) lets you add article to [Pocket](https://getpocket.com/a/queue/) to read it later, you can also use companion app [Pocket New Tab](https://chrome.google.com/webstore/detail/pocket-new-tab/mlnnopicjonfamklpcdfnbcomdlopmof) to read recommended articles or articles you had saved.
 
@@ -71,7 +71,7 @@ Whenever you find a word not in your dictionary, You Goggle it, right ? But Eve
 * [UpNext Music Player](https://github.com/ptgamr/upnext)
 * [Enjoy Music Player](https://chrome.google.com/webstore/detail/enjoy-music-player/hncfgilfeieogcpghjnnhddghgdjbekl)
 
-![](/images/List-of-the-Essential-Extensions/0*OqbhJEVrxX-0-ufb..jpg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/List-of-the-Essential-Extensions/0*OqbhJEVrxX-0-ufb..jpg)
 
 9\. **Enhance your New Tab Page,** you’re gonna open new tab every other minute, you can use that space to track:
 
@@ -84,7 +84,7 @@ Whenever you find a word not in your dictionary, You Goggle it, right ? But Eve
 
 Whenever I need to take a Quick note over internet or have to share something, I take a screenshot of it, as I just did above to share how Google dictionary pop-up looks, I did it with this screenshot taking extension, You can take screenshots (or a part) of visible screen and edit it in browser, and **share through link** or save the image itself.
 
-![](/images/List-of-the-Essential-Extensions/0*PZ740ndOzs_QvkDv..jpg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/List-of-the-Essential-Extensions/0*PZ740ndOzs_QvkDv..jpg)
 
 **11.** [**SimpleExtManager**](https://chrome.google.com/webstore/detail/simpleextmanager/kniehgiejgnnpgojkdhhjbgbllnfkfdk?hl=en)**:**
 

@@ -25,16 +25,16 @@ look at this list of general extensions for every user: [List of Essential Exten
 
 1. [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) : Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies. also available for Mozilla Firefox ([ColorZilla for firefox](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/))
 
-![](/images/Extensions-for-Front-end---UI-Developers/0*X3ve8UzkW7ccI5nx.png)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Extensions-for-Front-end---UI-Developers/0*X3ve8UzkW7ccI5nx.png)
 
 2\. [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) : outlining each element to better see placement on the page, you can debug your code for misalignments or floating elements easily.
 
-![](/images/Extensions-for-Front-end---UI-Developers/0*pAJINsSr8tQALTXR.png)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Extensions-for-Front-end---UI-Developers/0*pAJINsSr8tQALTXR.png)
 
 3\. [Rulers, Guides, Eye Dropper and Color Picker](https://chrome.google.com/webstore/detail/rulers-guides-eye-dropper/bjpngjgkahhflejneemihpbnfdoafoeh?hl=en-US) : Display rulers, guides, grid and pick any color from webpage.  
 I just love it’s simple guide adding functionality and freedom for same.
 
-![](/images/Extensions-for-Front-end---UI-Developers/0*Q2U_UmHEP7J10NlN.png)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Extensions-for-Front-end---UI-Developers/0*Q2U_UmHEP7J10NlN.png)
 
 4\. [PostMan](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en): Postman makes API development faster, easier, and better.
 
@@ -42,7 +42,7 @@ I just love it’s simple guide adding functionality and freedom for same.
 
 6\. [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm): Multiple tools commonly used by web developers, from working with styles to images.
 
-![](/images/Extensions-for-Front-end---UI-Developers/0*9i1-9FnFSh9xjtdb..jpg)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Extensions-for-Front-end---UI-Developers/0*9i1-9FnFSh9xjtdb..jpg)
 
 7\. [Trinity Radar | Trinity Radar](http://www.trinityradar.com/): Best tool for automated testing, created by folks at BigBinary, it works on cloud and makes testing flawless.
 
@@ -51,7 +51,7 @@ I just love it’s simple guide adding functionality and freedom for same.
 
 9\. [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) : the easiest way to find out the fonts used in a webpage.
 
-![](/images/Extensions-for-Front-end---UI-Developers/0*9W4ds-iMvyQ-btcd.png)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Extensions-for-Front-end---UI-Developers/0*9W4ds-iMvyQ-btcd.png)
 
 <figcaption>WhatFont Extension working on webpage</figcaption>
 

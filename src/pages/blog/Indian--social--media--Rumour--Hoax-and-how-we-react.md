@@ -40,7 +40,7 @@ No, never happened, at least UNESCO don’t know.
 
 No worries, We don’t need awards, we are best anyway, India is a shinning Country, specially on Diwali :
 
-![](/images/Indian--social--media--Rumour--Hoax-and-how-we-react/1*p0hWDW5eAb7s_6WA8FV7ig.png)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Indian--social--media--Rumour--Hoax-and-how-we-react/1*p0hWDW5eAb7s_6WA8FV7ig.png)
 
 <figcaption>India-on-Diwali-by-NASA-fake</figcaption>
 
@@ -56,11 +56,11 @@ Hi I’m Arpit, a \[realist\] Nationalist, I love my motherland India and proud 
 
 Today (03/12/2015) I received these \[whatsapp\] messages:
 
-![](/images/Indian--social--media--Rumour--Hoax-and-how-we-react/1*eAVos_-04817oyxi5HUVKw.png)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Indian--social--media--Rumour--Hoax-and-how-we-react/1*eAVos_-04817oyxi5HUVKw.png)
 
 <figcaption>TrueCaller Hacked New by&nbsp;TOI</figcaption>
 
-![](/images/Indian--social--media--Rumour--Hoax-and-how-we-react/1*bDbnc4p65nWTTTq6ADWYwA.png)
+![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/Indian--social--media--Rumour--Hoax-and-how-we-react/1*bDbnc4p65nWTTTq6ADWYwA.png)
 
 <figcaption>News from CEO of Whatsapp about Whatsapp is&nbsp;insecure</figcaption>
 
