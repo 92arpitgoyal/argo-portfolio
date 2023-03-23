@@ -9,7 +9,7 @@ thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558448514/
 title: 10 tips to getting started in a professional life
 date: 2017-01-04T15:04:10.000Z
 featuredpost: false
-featuredimage: https://res.cloudinary.com/arpit-goyal/image/upload/v1558448514/images/featured-images/future-can-be-better.jpg
+featuredimage: /img/future-can-be-better.jpg
 url: https://medium.com/a-curious-life/success-101-f4a179b3a05
 gallery: []
 subtitle: ""
