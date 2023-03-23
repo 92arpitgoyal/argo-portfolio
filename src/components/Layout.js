@@ -6,8 +6,6 @@ import "../styles/main.scss";
 import useSiteMetadata from "./SiteMetadata";
 import { withPrefix } from "gatsby";
 
-import safePrefix from '../utils/safePrefix';
-
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
   return (
@@ -41,7 +39,6 @@ const TemplateWrapper = ({ children }) => {
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
-        <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
 
         <script type="application/ld+json">{`
             {
