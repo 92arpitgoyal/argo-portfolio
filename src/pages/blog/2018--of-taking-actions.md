@@ -1,22 +1,24 @@
 ---
-templateKey: blog-post
-title: '2018: of taking actions'
-date: 2017-01-04T15:04:10.000Z
-excerpt: Last year a lot of thing happened, this year I fought back, took actions,
-  and kinda worked on my checklist. This was a very different year…
-thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558451071/images/featured-images/2018-taking-actions.jpg
-subtitle: ''
-content_img_path: ''
-url: https://medium.com/@arpit_goyal/2018-of-taking-actions-8a5ca2f28630
 is_external: true
+excerpt: Last year a lot of thing happened, this year I fought back, took
+  actions, and kinda worked on my checklist. This was a very different year…
 is_featured: false
+templateKey: blog-post
+content_img_path: ""
+thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558451071/images/featured-images/2018-taking-actions.jpg
+title: "2018: of taking actions"
+date: 2017-01-04T15:04:10.000Z
+featuredpost: false
+featuredimage: /img/2018-taking-actions.jpg
+url: https://medium.com/@arpit_goyal/2018-of-taking-actions-8a5ca2f28630
+subtitle: ""
+description: Last year a lot of things happened, this year I fought back, took
+  actions, and kinda worked on my checklist. This was a very different year, a
+  year full of things and events.
 tags:
-- Blog
-
+  - Blog
 ---
 ![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558451071/images/featured-images/2018-taking-actions.jpg)
-
-Last year a lot of things happened, this year I fought back, took actions, and kinda worked on my checklist. This was a very different year, a year full of things and events.
 
 ### 2017:
 
@@ -28,11 +30,11 @@ The company I had joined wasn’t the kind of company I would have joined in oth
 
 This was a **needy job** and with very bad management, I was struggling, almost fighting every day to survive. Meanwhile, my grandmother got really sick, she always used to be sick around summers but, this time we all knew it was different, she stayed in bed even more, and slowly she stopped doing things on her own, she got paralysed and **my grandmother died** just before Diwali.
 
-The whole time when she was sick I was busy with mom, new needy job, new city and everything. I still think I could have spent more time with her at least in her last days. I already had a lot of things to take care of, now I also had the grief of my always loving _amma_ dying and not being able to spend good time with her in her last days.
+The whole time when she was sick I was busy with mom, new needy job, new city and everything. I still think I could have spent more time with her at least in her last days. I already had a lot of things to take care of, now I also had the grief of my always loving *amma* dying and not being able to spend good time with her in her last days.
 
 My mom had to stay in Ajmer, my hometown for all the rituals that followed and I stayed alone in Jaipur, where I had no friends and a fucking frustrating job. and that wasn’t it, while all of this was happening I got really bad with my behaviour(and health, I had to even take **sleeping pills** too), it resulted into my high school sweetheart realising, she is better alone, **we broke-up.**
 
-***
+- - -
 
 ### **2018:**
 
@@ -44,7 +46,7 @@ Now that I was in Jaipur, I wasn’t going out much, etc. I had some more time o
 
 First, I realised that I can not take life for granted, I saw my mother almost dying in front of me(doctors said her survival chance was 30%), so I started working towards it.
 
-I did all the **deathbed confessions** and said all the **long pending sorry**, everyone I could recall. I explained my part and said they matter to me and said sorry. I made a new rule of not waiting for someone and loving(and helping) all lives as much as I can they. As I was taught at [_AOL_](https://en.wikipedia.org/wiki/Art_of_Living_Foundation) to love someone as much as you can accept the person as almighty itself.
+I did all the **deathbed confessions** and said all the **long pending sorry**, everyone I could recall. I explained my part and said they matter to me and said sorry. I made a new rule of not waiting for someone and loving(and helping) all lives as much as I can they. As I was taught at *[AOL](https://en.wikipedia.org/wiki/Art_of_Living_Foundation)* to love someone as much as you can accept the person as almighty itself.
 
 I **took health much more seriously**, not just my mother’s but mine and people around me too, I read about a lot of things and included them in practice:
 
@@ -81,9 +83,9 @@ While I was trying to be a better person for others and for myself, I wasn’t t
 * I did not get married :D
 * **Weight loss,** after all the activities I lost 6–10 kgs(and gained it back lately :P)
 * A beautiful setup in Jaipur, an **aesthetically satisfying** life
-* A beautiful direction towards building [**a portfolio**](https://arpitgoyal.com/)
+* A beautiful direction towards building **[a portfolio](https://arpitgoyal.com/)**
 * I am now more comfortable in saying sorry and moving on, I guess
-* Did I say, now I could eat _dal bati any day_?
+* Did I say, now I could eat *dal bati any day*?
 * Recently I became part of **5:00 AM** club now
 * Much more organisation in life and time management
 * I just completed 1 million views on [Quora(shameless advertising Quora)](https://www.quora.com/profile/Arpit-Goyal-14)
@@ -105,7 +107,7 @@ While I was trying to be a better person for others and for myself, I wasn’t t
 
 <figcaption>Meeting people and making faces</figcaption>
 
-* **A month full of \[Art of\] living:** From attending Happiness program, to learning to not say no, to volunteering and _seva._
+* **A month full of \[Art of] living:** From attending Happiness program, to learning to not say no, to volunteering and *seva.*
 
 ![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558072062/images/2018--of-taking-actions/1*DRUdObl3anVEa9WE9KEVXg.jpeg)
 
@@ -133,7 +135,7 @@ While I was trying to be a better person for others and for myself, I wasn’t t
 
 I got more done than any other year, It was a great year. **It wasn’t perfect obviously**, there was a lot of bad things from not having those people back in life to saying too many goodbyes(Stephan Hawking and Stan Lee died too :( ).
 
-***
+- - -
 
 ### 2019:
 
@@ -146,14 +148,14 @@ I am not stopping here obviously, I have somethings I want to work in the coming
 * While I have made many friends, most are not truly constants, they can not replace Jos, Sal and Abhi. I need to somehow solve it.
 * and solve all new problems identified in 2018
 
-***
+- - -
 
 ### Takeaways
 
 Why did I write this whole thing?:
 
 * When I was going through all the problem, I couldn’t share it with enough people even people whom I should have told.
-* To be _Nemo,_ I want all of us to reach the ocean. When I was going through all the problems I kept saying ‘_I can do it, I can do it, I can do it_’, and then **I couldn’t.** So, I asked for help from people around.  
+* To be *Nemo,* I want all of us to reach the ocean. When I was going through all the problems I kept saying ‘*I can do it, I can do it, I can do it*’, and then **I couldn’t.** So, I asked for help from people around.\
   I want to let you know, if you need any help or just feeling low and want to talk, I promise I will not judge you, and I am available to listen to you :)
 * I want to tell you that if you feel like people are not understanding your problems and they are not taking is serious, it has happened to me. As I said reach out to someone don’t give up, try me? I know we all are fighting a war.
 * **Finally** to say, one can’t control everything, but what you can control is your actions. Please try to work on problems one by one.
