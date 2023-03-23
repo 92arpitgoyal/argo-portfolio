@@ -1,19 +1,24 @@
 ---
-templateKey: blog-post
 is_external: true
+excerpt: There are on an average 1.5 million (that’s 1,50,00,000) engineers
+  graduating in India each year, what is it that differs you from the rest…
+is_featured: false
+templateKey: blog-post
+content_img_path: ""
+thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558448514/images/featured-images/future-can-be-better.jpg
 title: 10 tips to getting started in a professional life
 date: 2017-01-04T15:04:10.000Z
-excerpt: There are on an average 1.5 million (that’s 1,50,00,000) engineers graduating
-  in India each year, what is it that differs you from the rest…
-thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558448514/images/featured-images/future-can-be-better.jpg
-subtitle: ''
-content_img_path: ''
-gallery: []
+featuredpost: false
+featuredimage: https://res.cloudinary.com/arpit-goyal/image/upload/v1558448514/images/featured-images/future-can-be-better.jpg
 url: https://medium.com/a-curious-life/success-101-f4a179b3a05
-is_featured: false
+gallery: []
+subtitle: ""
+description: There are on an average 1.5 million (that’s 1,50,00,000) engineers
+  graduating in India each year, what is it that differs you from the rest from
+  being just any other undergraduate/fresher to getting a good start of your
+  careers?
 tags:
-- Blog
-
+  - Blog
 ---
 ![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558448514/images/featured-images/future-can-be-better.jpg)
 
