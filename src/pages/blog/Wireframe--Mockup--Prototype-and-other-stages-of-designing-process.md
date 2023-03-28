@@ -1,23 +1,28 @@
 ---
+is_external: true
+excerpt: This article is for Designers, Developers, Product Managers, Founders
+  or anybody who is part of design feedback loop. You can understand…
+is_featured: false
 templateKey: blog-post
+content_img_path: ""
+thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558449781/images/featured-images/stages-in-design.jpg
 title: Wireframe, Mockup, Prototype and other stages of designing process
 date: 2017-01-04T15:04:10.000Z
-excerpt: This article is for Designers, Developers, Product Managers, Founders or
-  anybody who is part of design feedback loop. You can understand…
-thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558449781/images/featured-images/stages-in-design.jpg
-subtitle: ''
-content_img_path: ''
-is_external: true
+featuredpost: false
+featuredimage: /img/stages-in-design.jpg
 url: https://medium.com/a-curious-life/wireframe-mockup-prototype-and-other-stages-of-designing-process-2a3f1c9e1dbf
-is_featured: false
+subtitle: ""
+description: This article is for Designers, Developers, Product Managers,
+  Founders or anybody who is part of design feedback loop. You can understand
+  design flow better and give necessary feedback at right time and have clear
+  expectations from design depending on which stage it is.
 tags:
-- Blog
-- Design
-- UX
-- UI
-- Wireframe
-- Product Management
-
+  - Blog
+  - Design
+  - UX
+  - UI
+  - Wireframe
+  - Product Management
 ---
 ![](https://res.cloudinary.com/arpit-goyal/image/upload/v1558449781/images/featured-images/stages-in-design.jpg)
 
