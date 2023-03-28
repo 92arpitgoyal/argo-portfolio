@@ -1,19 +1,28 @@
 ---
-templateKey: blog-post
-title: 'Indian [social] media, Rumour, Hoax and how we react :'
-date: 2017-01-04T15:04:10.000Z
-excerpt: |-
-  Hello fellow Indians!
-  How are you doing? How was your day? (I hope good, I don’t want to be called anti-national)
-thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558448515/images/featured-images/diwali-pe-india.jpg
-subtitle: ''
-content_img_path: ''
 is_external: true
-url: https://medium.com/a-curious-life/indian-social-media-rumour-hoax-and-how-we-react-723c72fb8f40
-is_featured: false
-tags:
-- Blog
+excerpt: >-
+  Hello fellow Indians!
 
+  How are you doing? How was your day? (I hope good, I don’t want to be called anti-national)
+is_featured: false
+templateKey: blog-post
+content_img_path: ""
+thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558448515/images/featured-images/diwali-pe-india.jpg
+title: "Indian [social] media, Rumour, Hoax and how we react :"
+date: 2017-01-04T15:04:10.000Z
+featuredpost: false
+featuredimage: /img/diwali-pe-india.jpg
+url: https://medium.com/a-curious-life/indian-social-media-rumour-hoax-and-how-we-react-723c72fb8f40
+subtitle: ""
+description: >-
+  Hello fellow Indians!\
+
+  How are you doing? How was your day? (I hope good, I don’t want to be called *anti-national*)
+
+
+  Let’s talk about ourselves and our motherland India. It is great, right?
+tags:
+  - Blog
 ---
 Hello fellow Indians!  
 How are you doing? How was your day? (I hope good, I don’t want to be called *anti-national*)
