@@ -1,18 +1,31 @@
 ---
+is_external: true
+excerpt: If you are working at Infosys, Wipro, Accenture, Tech Mahindra, Tata
+  Consultancy Services or any other Mass Recruiting Company, usually…
+is_featured: false
 templateKey: blog-post
+content_img_path: ""
+thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558450538/images/featured-images/mass-recruiting-company.jpg
 title: Dark side of working at Mass Recruiting Companies
 date: 2017-01-04T15:04:10.000Z
-excerpt: If you are working at Infosys, Wipro, Accenture, Tech Mahindra, Tata Consultancy
-  Services or any other Mass Recruiting Company, usually…
-thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558450538/images/featured-images/mass-recruiting-company.jpg
-subtitle: ''
-content_img_path: ''
-is_external: true
+featuredpost: false
+featuredimage: /img/mass-recruiting-company.jpg
 url: https://qr.ae/TWNXXN
-is_featured: false
-tags:
-- Blog
+subtitle: ""
+description: >-
+  If you are working at **Infosys, Wipro, Accenture, Tech Mahindra, Tata
+  Consultancy Services** or any other Mass Recruiting Company, usually,
+  IT-Services based Multinational Company.
 
+
+  You are one of those **300,000 employees** (TCS as of March 2015)\
+
+  + **35,000 freshers** (TCS aimed at hiring for the year 2015)
+
+
+  ![Mass Recruiting Company](https://res.cloudinary.com/arpit-goyal/image/upload/v1558450538/images/featured-images/mass-recruiting-company.jpg)
+tags:
+  - Blog
 ---
 If you are working at **Infosys, Wipro, Accenture, Tech Mahindra, Tata Consultancy Services** or any other Mass Recruiting Company, usually, IT-Services based Multinational Company.
 
