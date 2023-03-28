@@ -1,18 +1,23 @@
 ---
+is_external: true
+excerpt: All These extensions are free, so there’s no harm in giving them all a
+  try — you can easily disable or remove them by typing…
+is_featured: false
 templateKey: blog-post
+content_img_path: ""
+thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558450211/images/featured-images/chrome-extensions-for-web-developers.jpg
 title: Extensions for Front-end / UI Developers
 date: 2017-01-04T15:04:10.000Z
-excerpt: All These extensions are free, so there’s no harm in giving them all a try
-  — you can easily disable or remove them by typing…
-thumb_img_path: https://res.cloudinary.com/arpit-goyal/image/upload/v1558450211/images/featured-images/chrome-extensions-for-web-developers.jpg
-subtitle: ''
-content_img_path: ''
-is_external: true
+featuredpost: false
+featuredimage: /img/chrome-extensions-for-web-developers.jpg
 url: https://medium.com/a-curious-life/extensions-for-front-end-ui-developers-bfcdaf6a240
-is_featured: false
+subtitle: ""
+description: All These extensions are **free**, so there’s no harm in giving
+  them all a try — you can easily disable or remove them by typing
+  *chrome://extensions/* into the Chrome address bar and something similar for
+  Firefox as well.
 tags:
-- Blog
-
+  - Blog
 ---
 All These extensions are **free**, so there’s no harm in giving them all a try — you can easily disable or remove them by typing _chrome://extensions/_ into the Chrome address bar and something similar for Firefox as well.
 
